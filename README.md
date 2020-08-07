@@ -3,5 +3,5 @@
 
 Experiences ranging from administrating servers, designing graphics, producing film, and developing software (full stack developer). A avid security researcher and I reverse engineer games for fun!
 
-- Website <a href="https://www.github.io/justinsoon">Website</a>
-- Resume <a href="https://www.github.io/justinsoon/resume">Resume</a>
+- <a href="https://www.github.io/justinsoon">Website</a>
+- <a href="https://www.github.io/justinsoon/resume">Resume</a>
